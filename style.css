@@ -10,9 +10,9 @@ body {
 div {
   /* Your code here! */
   width: 700px;
-  margin: auto 
-  font-family: "Helvetica Neue"
-  background: white
+  margin: auto;
+  font-family: "Helvetica Neue";
+  background: white;
 }
 
 /* ID selector to select the element with id 'main-header' */
